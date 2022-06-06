@@ -1,6 +1,6 @@
 ## Hello,World!
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 fish-uncle,我是一名90后的前端程序员
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi，我是 fish-uncle,一名90后的前端程序员
 
 - 🚀 Daily: ![](https://img.shields.io/badge/Webstorm-blue?logo=webstorm) ![](https://img.shields.io/badge/Chrome-white?logo=google-chrome) ![](https://img.shields.io/badge/Jenkins-white?logo=jenkins) ![](https://img.shields.io/badge/Github-blue?logo=github) ![](https://img.shields.io/badge/Gitlab-gray?logo=gitlab)
 - 🎸 Work on which platforms : ![](https://img.shields.io/badge/Linux-gray?logo=linux) ![](https://img.shields.io/badge/Mac-blue?logo=macos) ![](https://img.shields.io/badge/Windows-blue?logo=windows)
